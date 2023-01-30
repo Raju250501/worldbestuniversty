@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>University website desing-Easy Tutrorials</title>
+    <link rel="stylesheet" href="ok.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
+</head>
+<body>
+    <section class="header">
+        <nav>
+        <a href="index.html"><img src="logo.png"></a>
+            <div class="nav-links" id="navlinks">
+                <i class="bi bi-x-square-fill" onclick="closeBar()" id="closeBar"></i>
+                <ul>
+                    <li><a href="flipcart.html">Home</a></li>
+                   <li><a href="about.html.html">About</a></li>
+                   <li><a href="course.html.html">Course</a></li>
+                   <li><a href="blog.html.html">Blog</a></li>
+                   <li><a href="contct.html.html">contact</a></li>
+</ul> 
+                      </div>
+                      
+                      </body>
+                      </html>
+                      
+                </ul>
+            </div>
+        </nav>
+        <i class="bi bi-list" id="openBar" onclick="openBar()"></i>
+        <div class="text-box">
+            <h1>world's Biggest University</h1>
+            <p>Do you know some universities around the globe are 1000+ years old? <br>Many of them were established in the earlier 5th century and continues to function greatly even today. </p>
+        <a href="" class="hero-btn">Visit us to known</a>
+        </div>
+    </section>
+ 
+    <section class="course">
+        <h1>course we offer</h1>
+        <p>Lrem ipsum dolor sit amet, conectetur adipiscing elit.</p> 
+        <div class="row">
+            <div class="course-col">
+            <h3>Intermediate</h3>
+            <p>Faster, proactive protection against dangerous websites, downloads, and extensions. Warns you about password breaches. Requires browsing data to be sent to Google.</p>     
+        </div>
+        </div>
+        <div class="row">
+            <div class="course-col">
+        <h3>Degree</h3>
+            <p>Faster, proactive protection against dangerous websites, downloads, and extensions. Warns you about password breaches. Requires browsing data to be sent to Google.</p>
+            </div>
+            </div>
+            <div class="row">
+                <div class="course-col">
+                <h3>post graduation</h3>
+                <p>Faster, proactive protection against dangerous websites, downloads, and extensions. Warns you about password breaches. Requires browsing data to be sent to Google.</p>
+            </div>
+            </div>
+    </section>
+    <!-- -------campus-- -->
+    <section class="campus">
+        <h1>Our Global campus</h1>
+        <p>Lrem ipsum dolor sit amet, conectetur adipiscing elit.</p>
+        <div class="row">
+            <div class="campus-col">
+                <img src="london.png">
+                <div class="layer">
+                    <h3>LONDON</h3>
+                </div>
+                </div>
+                <div class="campus-col">
+                <img src="newyork.png">
+                <div class="layer">
+                    <h3>NEW YORK</h3>
+                </div>
+                </div>
+                <div class="campus-col">
+                <img src="washington.png">
+                <div class="layer">
+                    <h3>WASHINGTON</h3>
+                </div>
+            </div>
+                
+    </section>
+    <!-- ----------facilities-->
+    <section class="facilities">
+        <h1>Our facilities</h1>
+       <p>Lrem ipsum dolor sit amet, conectetur adipiscing elit</p>
+       <div class="row">
+           <div class="facilities-col">
+               <img src="library.png">
+               <h3>world class Library</h3>
+               <p>>Faster, proactive protection against dangerous websites, downloads, and extensions. Warns you about password breaches. Requires browsing data to be sent to Google.</p>     
+            </div>
+            
+                <div class="facilities-col">
+                    <img src="basketball.png">
+                    <h3>Largest play ground</h3>
+                    <p>>Faster, proactive protection against dangerous websites, downloads, and extensions. Warns you about password breaches. Requires browsing data to be sent to Google.</p>     
+           </div>
+           
+           
+            <div class="facilities-col">
+                <img src="cafeteria.png">
+            <h3>Tasty and Healthy food</h3>
+                <p>>Faster, proactive protection against dangerous websites, downloads, and extensions. Warns you about password breaches. Requires browsing data to be sent to Google.</p>     
+       </div>
+       </div>
+    </section>
+    <!-- -----------testimonials---------->
+    <section class="testimonials">
+        <h1>What our student says</h1>
+        <p>Lrem ipsum dolor sit amet, conectetur adipiscing elit.</p>
+        <div class="row">
+            <div class="testimonials-col">
+                <img src="user1.jpg">
+                <div>
+                    <p>Faster, proactive protection against dangerous websites, downloads, and extensions. Warns you about password breaches. Requires browsing data to be sent to Google.</p>     
+                <h3>Christine Berkley</h3>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                <i class="fa fa-star"></i>
+                </div>
+                </div>
+                    <div class="testimonials-col">
+                        <img src="user2.jpg">
+                        <div>
+                            <p>Faster, proactive protection against dangerous websites, downloads, and extensions. Warns you about password breaches. Requires browsing data to be sent to Google.</p>     
+                        <h3>David Byer</h3>
+                        </div>
+            </div>
+        </div>
+
+    </section>
+
+    <!-- ----------call to action----- -->
+<section class="cta">
+    <h1>Enroll for our various online<br> coures anywhere from the world</h1>
+    <a href="" class="hero-btn">Contact us</a>
+
+</section>
+
+<section class="Footer">
+    <h4>About Us</h4>
+    <p>Faster, proactive protection against dangerous websites, downloads, and extensions. Warns you about password breaches.<br> Requires browsing data to be sent to Google.</p>     
+    <div class="icons">
+        <i class="fa fa-facebook"></i>
+    </div>
+    </section>
+
+
+<script src="script.js"></script>
+    
+</body>
+</html>
